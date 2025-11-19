@@ -18,7 +18,7 @@ const ContactModal = (props) => {
       {(onClose) => (
         <>
           <ModalHeader className="flex flex-col gap-1 text-2xl text-center">
-            Contacts
+            Contactos
           </ModalHeader>
 
           <Divider />
@@ -60,7 +60,7 @@ const ContactModal = (props) => {
               onPress={onClose}
               className="w-full"
             >
-              Close
+              Cerrar
             </Button>
           </ModalFooter>
         </>
