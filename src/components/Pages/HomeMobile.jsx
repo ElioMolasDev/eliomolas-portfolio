@@ -52,7 +52,7 @@ const HomeMobile = () => {
             }
             onClick={() => {
               window.open(
-                "https://drive.google.com/file/d/1ojWBYxAMtnG-t7trzVo4XEDfEJ1JGiq5/view?usp=sharing"
+                "https://drive.google.com/file/d/1m_AKZiBAqrLztyeEPpPexGsEtaLwuG7V/view?usp=sharing"
               );
             }}
           >
